@@ -145,6 +145,11 @@ For equal (==)
     //Answer is true
 
 For not equal (!=)
+    console.log(5!=5) 
+    //Answer is false.
+
+    console.log(9!=9)
+    //Answer is false.
 
 For strict equal  (===)
 let a = 100
@@ -159,6 +164,11 @@ let d = '200'
     //Answer is false
 
 For not strict equal (!==)
+    console.log(5!=='5') 
+    //Answer is true.
+
+    console.log(9!=='9') 
+    //Answer is true.
 
 For greater than (>)
 let a = 100
@@ -184,7 +194,10 @@ For less than (<)
 
 For less than or equal to (<=)
     console.log(b <= a)
-    //Answer is true
+    //Answer is false
+
+    console.log (a <= b>)
+    //Answer is true.
 
 - Logical Operators
 For logical AND (&&)
