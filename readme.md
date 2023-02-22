@@ -212,14 +212,6 @@ for (let i= 1; i < 20; i += 7;) {
     console.log(i);
 }
 
-let i= 1;
-console.log(i);
-//Answer is 1.
-
-let i < 20;
-console.log(i);
-//Answer is true.
-
-let i+= 7;
-console.log(i);
-//Answer is 8.
+1
+8
+15
